@@ -9,7 +9,7 @@ const Main = () => {
                 <source src= '/assets/videobg_night.mp4' />
             </video>
             <div className=' absolute w-full h-full flex flex-col justify-center items-center text-white gap-y-6 top-0'>
-                <div className ='flex flex-row justify-center items-center gap-8'>
+                <div className ='flex flex-col md:flex-row justify-center items-center gap-8'>
                         <img className = 'w-64'src='/assets/logo_light.svg' alt="Caladan Logo"/>
                     <div className='max-w-md'>
                         <p>Caladan is an indpendent brokerage that sources and delivers raw materals, equipment and chemicals to climate startups.</p>
