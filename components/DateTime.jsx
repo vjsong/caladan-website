@@ -6,7 +6,7 @@ export const DateTime = () => {
     return(
         <div className ='flex flex-row justify-center items-center text-white gap-x-1'>
             <img className = 'h-4 w-4'src={'/assets/clock_light.svg'} alt='clock icon'/>
-            <Clock format={'HH:mm'} ticking={true} timezone={'US/Pacific'} blinking='all'>
+            <Clock format={'HH:mm:ss'} ticking={true} timezone={'US/Pacific'} blinking='all'>
             </Clock>
             <p>PT - &copy;  2023</p>
         </div>

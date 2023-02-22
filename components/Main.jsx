@@ -3,7 +3,7 @@ import DateTime from './DateTime'
 
 const Main = () => {
     return (
-        <div className = 'w-full h-screen'>
+        <div className = 'w-full h-screen bg-black'>
             <div className='absolute w-full h-full bg-black md:bg-black/75'></div>
             <video  className='w-full h-screen object-cover' loop autoPlay muted>
                 <source src= '/assets/videobg_night.mp4' />
