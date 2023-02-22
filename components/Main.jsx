@@ -19,7 +19,7 @@ const Main = () => {
                     <p>Contact Info: <a className = 'underline' href="mailto:vincent@caladanindustries.com">vincent@caladanindustries.com</a></p>
                 </div>
                 <div>
-                    <p>We are headquartered in SF, California</p>
+                    <p>We are headquartered in San Francisco, CA</p>
                 </div>
                 <DateTime />
             </div>
