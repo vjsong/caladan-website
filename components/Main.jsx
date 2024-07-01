@@ -15,7 +15,7 @@ const Main = () => {
                             <img className = 'md:w-64 w-56'src='/assets/logo_light.svg' alt="Caladan Logo"/>
                         <div className='w-auto md:w-2/5 ls:text-left text-center md:mx-0 mx-20'>
                             <p>
-                                Caladan is an independent brokerage that buys and sells raw materials, chemicals and feedstocks critical to the energy transition.
+                                Caladan is a recycling and physical trading company founded by three Stanford grads. We market and process critical metals from batteries, spent solar panels, and industrial scrap. We are deeply committed to promoting a circular supply chain for renewable energy.
                             </p>
                         </div>
                     </div>
