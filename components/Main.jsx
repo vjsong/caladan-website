@@ -15,15 +15,15 @@ const Main = () => {
                             <img className = 'md:w-64 w-56'src='/assets/logo_light.svg' alt="Caladan Logo"/>
                         <div className='w-auto md:w-2/5 ls:text-left text-center md:mx-0 mx-20'>
                             <p>
-                                Caladan is a recycling and physical trading company founded by three Stanford grads that markets and processes critical metals batteries, spent solar panels, and industrial scrap. We are deeply committed to promoting a circular supply chain for renewable energy.
+                                Caladan is a recycling and physical trading company that markets and processes critical metals critical to the energy transition. We are deeply committed to promoting a circular supply chain for renewable energy.
                             </p>
                         </div>
                     </div>
                     <div>
-                        <p>Contact Info: <a className = 'underline' href="mailto: vincent@caladanindustries.com">vincent@caladanindustries.com</a></p>
+                        <p>Contact Info: <a className = 'underline' href="mailto: trading@caladanindustries.com">trading@caladanindustries.com</a></p>
                     </div>
                     <div>
-                        <p>We are based out of Austin, TX</p>
+                        <p>Founded at Stanford University. Based out of Austin, TX</p>
                     </div>
                     <DateTime />
                 </div>
