@@ -12,7 +12,7 @@ const Main = () => {
                 </video>
                 <div className=' absolute w-full h-full flex flex-col justify-center items-center text-white gap-y-6 top-0'>
                     <div className ='flex flex-col ls:flex-row justify-center items-center gap-8'>
-                            <img className = 'md:w-64 w-56'src='/assets/logo_light.svg' alt="Caladan Logo"/>
+                            <img className = 'md:w-64 w-56'src='/assets/logo_white_1.svg' alt="Caladan Logo"/>
                         <div className='w-auto md:w-2/5 ls:text-left text-center md:mx-0 mx-20'>
                             <p>
                                 Caladan is a recycling and physical trading company that markets and processes critical metals critical to the energy transition. We are deeply committed to promoting a circular supply chain for renewable energy.
